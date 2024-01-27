@@ -10,7 +10,8 @@ Here are a summary of my projects:
   - [ApiBuilder](https://github.com/nicolasventer/ApiBuilder) - typescript/javascript library that allows you to create an api server with the native http module.
   - [TaskQueueJS](https://github.com/nicolasventer/TaskQueueJS) - typescript/javascript library that allows you to queue asynchronous tasks and execute them sequentially.
   - [File Watcher](https://github.com/nicolasventer/File-Watcher) - c++ library that allows you to watch a folder and get notified of any file changes inside.
-  - [Breakpoint Detector](https://github.com/nicolasventer/Breakpoint-Detector) - c++ library that allows you to sleep for a specified amount of time with the ability to interrupt the sleep at any time.
+  - [Breakpoint Detector](https://github.com/nicolasventer/Breakpoint-Detector) - c++ library that allows you to detect when the execution has been paused by a breakpoint.
+  - [Interruptible Sleep](https://github.com/nicolasventer/Interruptible-Sleep) - c++ library that allows you to sleep for a specified amount of time and interrupt the sleep at any time.
 - tools
   - [Webpack React Template](https://github.com/nicolasventer/WebpackReactTemplate) - template for a really quick creation of React project with Webpack build.
   - [SchemaGenerator](https://github.com/nicolasventer/SchemaGenerator) - typescript/javascript library for generating mock data through a schema.
