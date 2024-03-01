@@ -5,10 +5,6 @@ I used to program in c++, javascript/typescript, React.
 
 Here are a summary of my projects:
 - libraries
-  - [FetchMocker](https://github.com/nicolasventer/FetchMocker) - typescript/javascript library that mock the fetch.
-  - [ReactGlobalDebugger](https://github.com/nicolasventer/ReactGlobalDebugger) - typescript/javascript library that provide a tool for creating and debugging global state in React.
-  - [ApiBuilder](https://github.com/nicolasventer/ApiBuilder) - typescript/javascript library that allows you to create an api server with the native http module.
-  - [TaskQueueJS](https://github.com/nicolasventer/TaskQueueJS) - typescript/javascript library that allows you to queue asynchronous tasks and execute them sequentially.
   - [File Watcher](https://github.com/nicolasventer/File-Watcher) - c++ library that allows you to watch a folder and get notified of any file changes inside.
   - [Breakpoint Detector](https://github.com/nicolasventer/Breakpoint-Detector) - c++ library that allows you to detect when the execution has been paused by a breakpoint.
   - [Interruptible Sleep](https://github.com/nicolasventer/Interruptible-Sleep) - c++ library that allows you to sleep for a specified amount of time and interrupt the sleep at any time.
