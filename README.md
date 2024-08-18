@@ -12,6 +12,7 @@ Here are a summary of my projects:
   - [Webpack React Template](https://github.com/nicolasventer/WebpackReactTemplate) - template for a really quick creation of React project with Webpack build.
   - [SchemaGenerator](https://github.com/nicolasventer/SchemaGenerator) - typescript/javascript library for generating mock data through a schema.
   - [Cpp Include Resolver](https://github.com/nicolasventer/Cpp-Include-Resolver) - executable that allows you to compute all folders to add to includePath in order to resolve all includes.
+  - [raw ts](https://github.com/nicolasventer/raw-ts) - executable that convert a file to a raw typscript string.
 - tests
   - [Test Vike](https://github.com/nicolasventer/Test_Vike) - test of Vike (vite-ssr).
   - [Test React Embedding](https://github.com/nicolasventer/Test-ReactEmbedding) - test of embedding a React component in a vanilla JS website.
