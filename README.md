@@ -14,7 +14,6 @@ Here are a summary of my projects:
   - [Cpp Include Resolver](https://github.com/nicolasventer/Cpp-Include-Resolver) - executable that allows you to compute all folders to add to includePath in order to resolve all includes.
   - [raw ts](https://github.com/nicolasventer/raw-ts) - executable that convert a file to a raw typscript string.
 - tests
-  - [Test Vike](https://github.com/nicolasventer/Test_Vike) - test of Vike (vite-ssr).
   - [Test React Embedding](https://github.com/nicolasventer/Test-ReactEmbedding) - test of embedding a React component in a vanilla JS website.
   - [Test React Editable Div](https://github.com/nicolasventer/Test-ReactEditableDiv) - test of importing React components by editing the content of a div.
 - misc
