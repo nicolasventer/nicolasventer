@@ -13,6 +13,14 @@ This library does not have any dependencies but it is recommended to use it with
 
 #### [Try it online](https://nicolasventer.github.io/SchemaGenerator/)
 
+### MPT-Demo
+
+[MPT-Demo](https://github.com/nicolasventer/MPT-Demo) is a demo of the MPT project.
+
+#### [Try it online](https://nicolasventer.github.io/MPT-Demo/)
+
+![mpt demo screenshot](misc/mpt_demo_screenshot.jpeg)
+
 ### Preact Project Template
 
 [Preact-Project-Template](https://github.com/nicolasventer/Preact-Project-Template) is a template for a Preact project that can either be used as a standalone client or as a client + server.
