@@ -1,7 +1,7 @@
 Hello,
 
 I'm a software engineer, full stack developer.  
-I used to program in C++, TypeScript/JavaScript, React.
+I use to program in C++, TypeScript/JavaScript, React.
 
 ### Schema Generator
 
