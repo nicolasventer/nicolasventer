@@ -9,7 +9,7 @@ I use to program in C++, TypeScript/JavaScript, React.
 
 This library does not have any dependencies but it is recommended to use it with [faker.js](https://fakerjs.dev/) for more realistic data.
 
-![Schema_Generator_screenshot](misc/Schema_Generator_screenshot.jpeg)
+![Schema_Generator_screenshot](misc/schema-generator/Schema_Generator_screenshot.jpeg)
 
 #### [Try it online](https://nicolasventer.github.io/SchemaGenerator/)
 
@@ -19,19 +19,19 @@ This library does not have any dependencies but it is recommended to use it with
 
 #### [Try it online](https://nicolasventer.github.io/MPT-Demo/)
 
-![mpt demo screenshot](misc/mpt_demo_screenshot.jpeg)
+![mpt demo screenshot](misc/mpt-demo/mpt_demo_screenshot.jpeg)
 
-### Preact Project Template
+### React Project Template
 
-[Preact-Project-Template](https://github.com/nicolasventer/Preact-Project-Template) is a template for a Preact project that can either be used as a standalone client or as a client + server.
+[React-Project-Template](https://github.com/nicolasventer/React-Project-Template) is a template for a React project that can either be used as a standalone client or as a client + server.
 
-There are 4 versions, each version corresponding to `Preact`/`React` `Full`/`Light` Template.
+There are 2 links, each link corresponding to React Full/Light Template.
 
-| ![Preact_Template_full_screenshot](./misc/Preact_Template_full_screenshot.jpeg) | ![Preact_Template_light_screenshot](./misc/Preact_Template_light_screenshot.jpeg) |
-| :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-|                                      Full                                       |                                       Light                                       |
+[![home_screenshot](misc/react-project-template/home_screenshot_small.jpeg)](misc/react-project-template/home_screenshot.jpeg)
+[![users_screenshot](misc/react-project-template/users_screenshot_small.jpeg)](misc/react-project-template/users_screenshot.jpeg)
+[![features_screenshot](misc/react-project-template/features_screenshot_small.jpeg)](misc/react-project-template/features_screenshot.jpeg)
 
-#### [Try it online](https://nicolasventer.github.io/Preact-Project-Template/)
+#### [Try it online](https://nicolasventer.github.io/React-Project-Template/)
 
 ### Other projects
 
